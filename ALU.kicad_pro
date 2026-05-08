@@ -224,7 +224,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "WIP 5"
+      "sch_revision": "WIP 6"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -652,7 +652,7 @@
         "uuid": "d7e53033-95e0-4649-ad5b-f44d59ca154e"
       }
     ],
-    "used_designators": "#PWR1-36,U1-40,SW1-4,Ce1-8,R1-16,C1",
+    "used_designators": "#PWR1-36,U1-62,SW1-4,#FLG1-2,J1-2,Ce1-8,R1-16,C1",
     "variants": []
   },
   "sheets": [
